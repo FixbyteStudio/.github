@@ -71,19 +71,6 @@ The shop that lets a project scale past the code.
 
 ---
 
-## Stack
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-00A79A?style=flat-square&labelColor=000D1F&logo=typescript&logoColor=F8F8F8)](https://www.typescriptlang.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-00A79A?style=flat-square&labelColor=000D1F&logo=nextdotjs&logoColor=F8F8F8)](https://nextjs.org/)
-[![Astro](https://img.shields.io/badge/Astro-00A79A?style=flat-square&labelColor=000D1F&logo=astro&logoColor=F8F8F8)](https://astro.build/)
-[![React](https://img.shields.io/badge/React-00A79A?style=flat-square&labelColor=000D1F&logo=react&logoColor=F8F8F8)](https://react.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-007A70?style=flat-square&labelColor=000D1F&logo=tailwindcss&logoColor=F8F8F8)](https://tailwindcss.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-007A70?style=flat-square&labelColor=000D1F&logo=nodedotjs&logoColor=F8F8F8)](https://nodejs.org/)
-[![pnpm](https://img.shields.io/badge/pnpm-007A70?style=flat-square&labelColor=000D1F&logo=pnpm&logoColor=F8F8F8)](https://pnpm.io/)
-[![Vercel](https://img.shields.io/badge/Vercel-1F2D3D?style=flat-square&labelColor=000D1F&logo=vercel&logoColor=F8F8F8)](https://vercel.com/)
-
----
-
 ## By the numbers
 
 <div align="center">
@@ -131,6 +118,6 @@ We take on projects where the software has to still be standing in three years.
 
 <br>
 
-<sub>◆ &nbsp;&copy; 2026 FixByte — Belgium &nbsp;·&nbsp; [fixbyte.be](https://fixbyte.be) &nbsp;·&nbsp; [contact@fixbyte.be](mailto:contact@fixbyte.be)</sub>
+<sub>&nbsp;&copy; 2026 FixByte — Belgium &nbsp;·&nbsp; [fixbyte.be](https://fixbyte.be) &nbsp;·&nbsp; [contact@fixbyte.be](mailto:contact@fixbyte.be)</sub>
 
 </div>
