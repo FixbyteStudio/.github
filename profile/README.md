@@ -8,8 +8,6 @@
 
 ### One platform. Two engines.
 
-**Software that holds. Hardware that follows.**
-
 Bespoke software, expert consulting and a hardware marketplace — under one technical brand.
 Built by engineers, for real business problems.
 
@@ -18,8 +16,8 @@ Built by engineers, for real business problems.
 [![Website](https://img.shields.io/badge/fixbyte.be-00A79A?style=flat-square&labelColor=000D1F&logo=googlechrome&logoColor=F8F8F8)](https://fixbyte.be)
 [![Email](https://img.shields.io/badge/contact@fixbyte.be-00A79A?style=flat-square&labelColor=000D1F&logo=maildotru&logoColor=F8F8F8)](mailto:contact@fixbyte.be)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-007A70?style=flat-square&labelColor=000D1F&logo=whatsapp&logoColor=F8F8F8)](https://wa.me/32493622901)
+[![X](https://img.shields.io/badge/X-007A70?style=flat-square&labelColor=000D1F&logo=X&logoColor=F8F8F8)](https://x.com/fixbytestudio)
 [![Instagram](https://img.shields.io/badge/Instagram-007A70?style=flat-square&labelColor=000D1F&logo=instagram&logoColor=F8F8F8)](https://www.instagram.com/fixbytestudio/)
-[![Facebook](https://img.shields.io/badge/Facebook-007A70?style=flat-square&labelColor=000D1F&logo=facebook&logoColor=F8F8F8)](https://www.facebook.com/fixbytestudio/)
 [![Location](https://img.shields.io/badge/Belgium-1F2D3D?style=flat-square&labelColor=000D1F&logo=googlemaps&logoColor=F8F8F8)](https://fixbyte.be)
 
 </div>
