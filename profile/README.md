@@ -13,12 +13,9 @@ Built by engineers, for real business problems.
 
 <br>
 
-[![Website](https://img.shields.io/badge/fixbyte.be-00A79A?style=flat-square&labelColor=000D1F&logo=googlechrome&logoColor=F8F8F8)](https://fixbyte.be)
-[![Email](https://img.shields.io/badge/contact@fixbyte.be-00A79A?style=flat-square&labelColor=000D1F&logo=maildotru&logoColor=F8F8F8)](mailto:contact@fixbyte.be)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-007A70?style=flat-square&labelColor=000D1F&logo=whatsapp&logoColor=F8F8F8)](https://wa.me/32493622901)
 [![X](https://img.shields.io/badge/X-007A70?style=flat-square&labelColor=000D1F&logo=X&logoColor=F8F8F8)](https://x.com/fixbytestudio)
 [![Instagram](https://img.shields.io/badge/Instagram-007A70?style=flat-square&labelColor=000D1F&logo=instagram&logoColor=F8F8F8)](https://www.instagram.com/fixbytestudio/)
-[![Location](https://img.shields.io/badge/Belgium-1F2D3D?style=flat-square&labelColor=000D1F&logo=googlemaps&logoColor=F8F8F8)](https://fixbyte.be)
 
 </div>
 
@@ -79,29 +76,6 @@ The shop that lets a project scale past the code.
 | projects in production | client retention | platform uptime |
 
 </div>
-
----
-
-## Brand
-
-Logo, colour, typography and tone are defined once and reused everywhere.
-
-<div align="center">
-
-[![Brand Style Guide](https://img.shields.io/badge/Brand_Style_Guide-v1.0-00A79A?style=flat-square&labelColor=000D1F&logo=readthedocs&logoColor=F8F8F8)](https://github.com/FixbyteStudio/.github/blob/main/docs/assets/brand/brand-style-guide.jpg)
-
-</div>
-
-| Token | Hex | Role |
-|---|---|---|
-| ![](https://img.shields.io/badge/-00A79A?style=flat-square) **FixByte Teal** | `#00A79A` | Primary accent — the Forme, links, primary actions |
-| ![](https://img.shields.io/badge/-007A70?style=flat-square) **Deep Teal** | `#007A70` | Hover and pressed states, secondary metadata |
-| ![](https://img.shields.io/badge/-000D1F?style=flat-square) **Ink** | `#000D1F` | Primary dark surface, body text on light |
-| ![](https://img.shields.io/badge/-F8F8F8?style=flat-square) **Paper** | `#F8F8F8` | Light surface, reversed text |
-
-Type is **Roobert** for display and interface, **JetBrains Mono** for code and technical labels.
-
-Repository badges use `style=flat-square` with `labelColor=000D1F`.
 
 ---
 
