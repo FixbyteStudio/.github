@@ -66,19 +66,6 @@ The shop that lets a project scale past the code.
 
 ---
 
-## By the numbers
-
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| **25+** | **99%** | **99.98%** |
-| projects in production | client retention | platform uptime |
-
-</div>
-
----
-
 ## Work with us
 
 We take on projects where the software has to still be standing in three years.
